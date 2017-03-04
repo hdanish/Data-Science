@@ -5,7 +5,7 @@ Information regarding the final Capstone Project for the degree can be found her
 
 The contents of this repo are divided as follows:
 
-* **Audio Quality Experiment:** My colleague Jasen Jones and I designed an experiment with the aim to answer the question of whether audio quality affects a user’s enjoyment of music. Included is a link to our final report findings, the data we collected as well as some of the code for the analysis I did using R.
+* **[Audio Quality Experiment](https://github.com/hdanish/Data-Science/tree/master/Audio%20Quality%20Experiment):** My colleague Jasen Jones and I designed an experiment with the aim to answer the question of whether audio quality affects a user’s enjoyment of music. Included is a link to our final report findings, the data we collected as well as some of the code for the analysis I did using R.
 * **Machine Learning Examples:** These examples are presented using Python in Jupyter notebooks and they make use of re (regex module), numpy, matplotlib and scikit-learn 
   * **Digit Classification of MNIST data:** Using the popular [MNIST database of handwritten digits](http://yann.lecun.com/exdb/mnist/), I implement a image recognition system using the k-nearest neighbors algorithm (KNN) and the naive Bayes classifier (NB).
   * **Topic Classication:** Using text data from newsgroup postings, I implement classifiers to distinguish between the topics based on the text using KNN, NB and logistic regression (LR).
