@@ -8,4 +8,4 @@ Our report can be read as a Google Doc [here](https://docs.google.com/document/d
 
 # Files
 
-The files included in this repository include the final data used in CSV format, as well as my code in R for the analysis (Section 4, Part 1 in the report).
+The files included in this repository include the [final data used in CSV format](https://github.com/hdanish/Data-Science/blob/master/Audio%20Quality%20Experiment/Audio_Survey_FINAL.csv), as well as my [code in R](https://github.com/hdanish/Data-Science/blob/master/Audio%20Quality%20Experiment/ASF.R) for the analysis (Section 4, Part 1 in the report).
