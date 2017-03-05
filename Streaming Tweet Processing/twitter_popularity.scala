@@ -13,10 +13,10 @@ object Main extends App {
   val T = args(1).toLong
 
   // Hard coding credentials for simplicity
-  val consumerKey = "GMjN0gzfFpp1fdWOZjxWxLwkf"
-  val consumerSecret = "uJghMEd0EiyLTrbnojqXvunDjUrbimII2NvMo3wb5Inc5qZ80C"
-  val accessToken = "32630555-M9S1INwUerJ2TSd0vMdeosliGt1hGCCbakK3Dp0FD"
-  val accessTokenSecret = "d4ZowXdudq7SQsvlqpYuEsgrXppe77kJnd4RCjA6nC78C"
+  val consumerKey = "<consumerKey>"
+  val consumerSecret = "<consumerSecret>"
+  val accessToken = "<accessToken>"
+  val accessTokenSecret = "<accessTokenSecret>"
 
   // Set the system properties so that Twitter4j library used by twitter stream
   // can use them to generat OAuth credentials
