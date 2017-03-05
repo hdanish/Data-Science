@@ -4,4 +4,4 @@ The content here is all inspired from assignments completed for the [Data Scienc
 
 # Files
 
-One of the assignments for this class involved a click-through rate prediction lab based on an [existing template for a notebook](). [My solution]() is available in the notebook.
+One of the assignments for this class involved a click-through rate prediction lab based on an [existing template for a notebook](http://nbviewer.jupyter.org/urls/dl.dropbox.com/s/1wb2rdqbet54y1h/MIDS-MLS-Project-Criteo-CTR.ipynb). [My solution]() is available in the notebook.
