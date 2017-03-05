@@ -1,4 +1,4 @@
-# Data-Science
+# Data Science
 This repository features a number of examples of work I did while pursuing a [Master of Information and Data Science](https://datascience.berkeley.edu/) at UC Berkeley. I completed the MIDS degree in August 2016.
 
 Information regarding the final Capstone Project for the degree can be found here: https://www.ischool.berkeley.edu/projects/2016/brand-buzz-reddit. This was a group project completed with my colleagues Vincent Chio, Filip Krunic and Ritesh Soni. Our final presentable, which can be accessed through the previous link, can also be viewed directly here: http://team-gilded-dashboard.herokuapp.com/
